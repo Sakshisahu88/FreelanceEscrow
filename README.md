@@ -179,3 +179,9 @@ contract FreelanceEscrow {
         return address(this).balance;
     }
 }
+
+
+
+0xa8cf3d9Fcc4C4b5b22b045C7855732ccF3f348d0
+
+<img width="1584" height="713" alt="image" src="https://github.com/user-attachments/assets/19271975-62fa-4acc-aa19-a5079b58216b" />
